@@ -9,6 +9,8 @@ Calcluation is controlled by a master excel file.
 
 To be updated to [LCIAmethod format](./format%20specs/LCIAmethod.md).
 
+To be updated to refer to input shapefiles and data, and to improve python structure.
+
 
 See the [Wiki](link to be added) for installation and use instructions.
 
