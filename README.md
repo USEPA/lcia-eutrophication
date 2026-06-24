@@ -1,3 +1,5 @@
+DEPRECATED - This repository has been archived and is no longer maintained. The code is provided for historical reference and may contain unpatched or unknown vulnerabilities. It should not be used in production systems.
+
 # LCIA Eutrophication
 
 Python 3 package for converting LCIA Characterization Factors (CFs) from native format (e.g., ecoregions, a grid, etc.) to other units (e.g., political), for use in LCIA software. 
